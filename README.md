@@ -164,11 +164,6 @@ sns.boxplot(x='sepal_width',data=delid)
 
 ![image](https://github.com/Jenishajustin/ODD2023---Datascience---Ex-02/assets/119405070/bba3864d-0014-452f-90aa-a34dda0b6cb0)
 
-![image](https://github.com/Jenishajustin/ODD2023---Datascience---Ex-02/assets/119405070/8179634c-e2c6-47a7-8513-7f6f56d87f1b)
-
-![image](https://github.com/Jenishajustin/ODD2023---Datascience---Ex-02/assets/119405070/00cdb6bc-927f-481e-b097-8eb83451b9ff)
-
-![image](https://github.com/Jenishajustin/ODD2023---Datascience---Ex-02/assets/119405070/2d5522c8-1685-4877-a11a-b283ed6400d1)
 
 ### For iris.csv
 ![image](https://github.com/Jenishajustin/ODD2023---Datascience---Ex-02/assets/119405070/87736ffa-868f-4549-a3dc-b07bb3f85f8f)
